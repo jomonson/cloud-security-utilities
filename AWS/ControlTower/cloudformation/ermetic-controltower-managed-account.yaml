@@ -44,6 +44,8 @@ Resources:
                   - acm:List*
                   - aoss:BatchGet*
                   - aoss:List*
+                  - athena:Get*
+                  - athena:List*
                   - autoscaling:Describe*
                   - batch:Describe*
                   - batch:List*
@@ -90,6 +92,8 @@ Resources:
                   - es:Describe*
                   - es:List*
                   - events:ListRules
+                  - firehose:Describe*
+                  - firehose:List*
                   - iam:Generate*
                   - iam:Get*
                   - iam:List*
